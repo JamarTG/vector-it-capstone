@@ -1,8 +1,5 @@
 # Retrieval-Augmented Generation (RAG)-Based Quiz Application  
 
-![image](https://github.com/user-attachments/assets/8c27cf25-2298-4490-8bc1-72a4c8b5c873)
-
-
 Video 1 
 https://github.com/user-attachments/assets/d3af12d2-2787-41be-b6b7-908b1f922fa4
 
