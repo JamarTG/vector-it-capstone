@@ -1,4 +1,4 @@
-# Retrieval-Augmented Generation (RAG)-Based Quiz Application  
+![image](https://github.com/user-attachments/assets/1aa9f0db-63b7-4142-883f-a818d64fda7f)
 
 ## Abstract  
 This system is an intelligent, interactive quiz platform designed to support personalized learning using Retrieval-Augmented Generation (RAG). It applies advanced natural language processing and adaptive assessment techniques to evaluate student performance and provide feedback only on unmet learning objectives. The application was developed with a focus on the CSEC Information Technology syllabus.  
@@ -10,8 +10,6 @@ This system is an intelligent, interactive quiz platform designed to support per
 - AI Engine: GPT-4
 - Vector Store: FAISS  
 - Embeddings: BAAI/bge-base-en-v1.5
-
-![image](https://github.com/user-attachments/assets/1aa9f0db-63b7-4142-883f-a818d64fda7f)
 
 
 ## Learning Approach  
